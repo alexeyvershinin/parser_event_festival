@@ -1,0 +1,738 @@
+{
+    "110 Above Presents: OTHR Festival": {
+        "fest_date": "Thursday 10 - Monday 14 August, 2023",
+        "fest_location": "Gopsall Hall Farm in Atherstone"
+    },
+    "2000trees Festival": {
+        "fest_date": "Thursday 6 - Sunday 9 July, 2023",
+        "fest_location": "Upcote Farm in Cheltenham"
+    },
+    "51st Festival": {
+        "fest_date": "Saturday 5 August, 2023",
+        "fest_location": "Copthall Playing Fields in London"
+    },
+    "A New Day Festival": {
+        "fest_date": "Friday 18 - Sunday 20 August, 2023",
+        "fest_location": "Mt Ephraim Gardens Hernhill Faversham Kent in Faversham"
+    },
+    "All Points East Festival": {
+        "fest_date": "Friday 18 - Sunday 27 August, 2023",
+        "fest_location": "Victoria Park, London in London"
+    },
+    "Anomaly Summer of Love Festival": {
+        "fest_date": "Saturday 5 - Sunday 6 August, 2023",
+        "fest_location": "Anomaly Fields in West Bromwich"
+    },
+    "App Fest UK ": {
+        "fest_date": "Thursday 27 - Sunday 30 July, 2023",
+        "fest_location": "HILLWORTH FARM in TEWKESBURY"
+    },
+    "ArcTanGent Festival": {
+        "fest_date": "Wednesday 16 - Saturday 19 August, 2023",
+        "fest_location": "Fernhill Farm in Bristol"
+    },
+    "Balter Festival": {
+        "fest_date": "Thursday 25 - Monday 29 May, 2023",
+        "fest_location": "Chepstow Racecourse in Chepstow"
+    },
+    "Baltic Weekender Festival": {
+        "fest_date": "Friday 2 - Saturday 3 June, 2023",
+        "fest_location": "Baltic Triangle in Liverpool"
+    },
+    "Bearded Theory festival": {
+        "fest_date": "Thursday 25 - Sunday 28 May, 2023",
+        "fest_location": "Catton Park in Walton Upon Trent"
+    },
+    "Beat-Herder Festival": {
+        "fest_date": "Thursday 13 - Sunday 16 July, 2023",
+        "fest_location": "Sawley Brow in Clitheroe"
+    },
+    "Belladrum Tartan Heart Festival": {
+        "fest_date": "Thursday 27 - Saturday 29 July, 2023",
+        "fest_location": "Belladrum Estate in Inverness"
+    },
+    "Belsonic Festival": {
+        "fest_date": "Saturday 17 - Friday 30 June, 2023",
+        "fest_location": "Ormeau Park, Belfast in Belfast"
+    },
+    "Beyond Festival": {
+        "fest_date": "Saturday 24 June, 2023",
+        "fest_location": "Abbey Park in Leicester"
+    },
+    "Big Family Festival": {
+        "fest_date": "Friday 4 - Monday 7 August, 2023",
+        "fest_location": "Sutton Coldfield and Surrounding Areas in Sutton Coldfield"
+    },
+    "Black Deer Festival of Americana": {
+        "fest_date": "Friday 16 - Sunday 18 June, 2023",
+        "fest_location": "Eridge Park in Tunbridge Wells"
+    },
+    "Bloodstock Open Air Festival": {
+        "fest_date": "Thursday 10 - Sunday 13 August, 2023",
+        "fest_location": "Catton Park in Walton Upon Trent"
+    },
+    "bluedot  festival": {
+        "fest_date": "Thursday 20 - Sunday 23 July, 2023",
+        "fest_location": "Jodrell Bank Observatory in Macclesfield"
+    },
+    "Boardmasters Festival": {
+        "fest_date": "Wednesday 9 - Sunday 13 August, 2023",
+        "fest_location": "Newquay Fistral Beach And Watergate Bay in Cornwall"
+    },
+    "Boogietown Festival": {
+        "fest_date": "Saturday 9 - Sunday 10 September, 2023",
+        "fest_location": "Apps Court Farm in Walton-on-Thames"
+    },
+    "Boomtown  festival": {
+        "fest_date": "August 2023, TBC",
+        "fest_location": "Matterley Estate in Hampshire"
+    },
+    "BST Hyde Park Festival": {
+        "fest_date": "Saturday, 24 June - Saturday 8 July, 2023",
+        "fest_location": "The Hyde Park, St Neots in St Neots"
+    },
+    "Burn It Down Festival": {
+        "fest_date": "Friday 8 - Sunday 10 September, 2023",
+        "fest_location": "The Foundry in Torquay"
+    },
+    "Cafe Mambo Ibiza Classics at Warwick Castle festival": {
+        "fest_date": "Saturday 13 May, 2023",
+        "fest_location": "Warwick Castle in Warwick"
+    },
+    "Camp Bestival Dorset festival": {
+        "fest_date": "Thursday 27 - Sunday 30 July, 2023",
+        "fest_location": "Lulworth Castle in East Lulworth"
+    },
+    "Camp Bestival Shropshire festival": {
+        "fest_date": "Thursday 17 - Sunday 20 August, 2023",
+        "fest_location": "Weston Park in Shifnal"
+    },
+    "City Splash Festival ": {
+        "fest_date": "Monday 29 May, 2023",
+        "fest_location": "Brockwell Park in London"
+    },
+    "Colour Clash Festival": {
+        "fest_date": "Saturday 15 July, 2023",
+        "fest_location": "Tredegar Park in Newport"
+    },
+    "Coloursfest": {
+        "fest_date": "Saturday 5 August, 2023",
+        "fest_location": "Braehead Arena in Glasgow"
+    },
+    "Country To Country Festival - Glasgow": {
+        "fest_date": "Friday 10 - Sunday 12 March, 2023",
+        "fest_location": "OVO Hydro in Glasgow "
+    },
+    "Country To Country Festival - London": {
+        "fest_date": "Friday 10 - Sunday 12 March, 2023",
+        "fest_location": "The O2 in London"
+    },
+    "Craic by the Creek Festival": {
+        "fest_date": "Friday 21 - Sunday 23 July, 2023",
+        "fest_location": "Whitebottom Farm in Stockport"
+    },
+    "Creamfields North festival": {
+        "fest_date": "Thursday 24 - Sunday 27 August, 2023",
+        "fest_location": "Daresbury in Cheshire"
+    },
+    "Creamfields South festival": {
+        "fest_date": "Friday 26 - Sunday 28 May, 2023",
+        "fest_location": "Hylands Park in Chelmsford"
+    },
+    "Crooked House In The Park festival": {
+        "fest_date": "Sunday 27 August, 2023",
+        "fest_location": "Lichfield City Centre in Lichfield"
+    },
+    "Cross The Tracks Festival": {
+        "fest_date": "Sunday 28 May, 2023",
+        "fest_location": "Brockwell Park in London"
+    },
+    "Cultivate Festival 2023: Summer Edition": {
+        "fest_date": "Friday 12 - Saturday 13 May, 2023",
+        "fest_location": "Innoflate in Aberdeen"
+    },
+    "Detonate Festival": {
+        "fest_date": "Saturday 10 June, 2023",
+        "fest_location": "Colwick Country Park in Nottingham"
+    },
+    "Distortions Festival": {
+        "fest_date": "Friday 28 - Sunday 30 April, 2023",
+        "fest_location": "Dead Wax in Birmingham"
+    },
+    "Download Festival": {
+        "fest_date": "Thursday 8 - Sunday 11 June, 2023",
+        "fest_location": "Raceway Fields And Forest Donington Park in Leicestershire "
+    },
+    "Dream Valley Festival": {
+        "fest_date": "Saturday 27 May, 2023",
+        "fest_location": "Great Lines Heritage Park in Gillingham"
+    },
+    "DSCNNCT Festival ": {
+        "fest_date": "Saturday 1 - Sunday 2 July, 2023",
+        "fest_location": "Crystal Lakes  in Huntingdon"
+    },
+    "El Dorado Festival": {
+        "fest_date": "Thursday 6 - Monday 10 July, 2023",
+        "fest_location": "Eastnor Castle Deer Park in Ledbury"
+    },
+    "Electric Castle Festival ": {
+        "fest_date": "Wednesday 19 - Sunday 23 July, 2023",
+        "fest_location": "Banffy Castle in Bontida, Cluj"
+    },
+    "Emerge Music Festival Belfast": {
+        "fest_date": "Saturday 26 - Sunday 27 August, 2023",
+        "fest_location": "Boucher Road Playing Fields in Belfast"
+    },
+    "Equinox Festival": {
+        "fest_date": "Friday 15 - Monday 18 September, 2023",
+        "fest_location": "Chalk Farm in Lincolnshire"
+    },
+    "Escape festival": {
+        "fest_date": "Saturday 19 August, 2023",
+        "fest_location": "Swansea in Swansea"
+    },
+    "FeastyFest": {
+        "fest_date": "Sunday 10 September, 2023",
+        "fest_location": "Cheam Park in Sutton"
+    },
+    "Festiva": {
+        "fest_date": "Saturday 26 - Sunday 27 August, 2023",
+        "fest_location": "The Great Harwood Showground in Blackburn"
+    },
+    "Fields Of Gold Festival": {
+        "fest_date": "Friday 1 - Saturday 2 September, 2023",
+        "fest_location": "Ashton Cricket Club in Ashton-Under-Lyne"
+    },
+    "Fife Fest": {
+        "fest_date": "Saturday 9 - Sunday 10 September, 2023",
+        "fest_location": "Silverburn Park in Leven"
+    },
+    "Flashback Festival": {
+        "fest_date": "Saturday 20 May, 2023",
+        "fest_location": "Platt Fields Park in Manchester"
+    },
+    "FLY Open Air festival": {
+        "fest_date": "Saturday 20 - Sunday 21 May, 2023",
+        "fest_location": "Hopetoun House in Edinburgh"
+    },
+    "GlastonBARRY Juniors Festival": {
+        "fest_date": "Friday 28 July, 2023",
+        "fest_location": "GlastonBARRY in Barry"
+    },
+    "GlastonBARRY Tribute Festival": {
+        "fest_date": "Saturday 29 - Sunday 30 July, 2023",
+        "fest_location": "GlastonBARRY in Barry"
+    },
+    "Glastonbudget festival": {
+        "fest_date": "Friday 26 - Sunday 28 May, 2023",
+        "fest_location": "Turnpost Farm in Wymeswold"
+    },
+    "GoldCoast Oceanfest": {
+        "fest_date": "Friday 16 - Sunday 18 June, 2023",
+        "fest_location": "GoldCoast Oceanfest in Croyde Bay"
+    },
+    "Good Vibrations Society  festival": {
+        "fest_date": "Friday 4 - Monday 7 August, 2023",
+        "fest_location": "Pippingford Park in Nutley"
+    },
+    "Goodgreef presents Trance In The Woods  festival": {
+        "fest_date": "Saturday 3 June, 2023",
+        "fest_location": "Elvaston Castle Country Park in Derby"
+    },
+    "Gottwood Festival": {
+        "fest_date": "Thursday 8 - Sunday 11 June, 2023",
+        "fest_location": "Carreglwyd Estate in Yns Mon, Anglesey"
+    },
+    "Groovebox Festival": {
+        "fest_date": "Saturday 27 May, 2023",
+        "fest_location": "Nottingham Racecourse in Nottingham"
+    },
+    "Hammerfest": {
+        "fest_date": "Saturday 11 - Sunday 12 February, 2023",
+        "fest_location": "O2 Academy in Birmingham"
+    },
+    "Hastings Reggae Festival": {
+        "fest_date": "Saturday 29 July, 2023",
+        "fest_location": "The Oval in Hastings"
+    },
+    "Henley Festival": {
+        "fest_date": "Wednesday 5 - Sunday 9 July, 2023",
+        "fest_location": "Henley Bridge in Henley-on-Thames"
+    },
+    "Hideout Festival": {
+        "fest_date": "Tuesday, 25 July - Thursday 29 June, 2023",
+        "fest_location": "Zrce Beach in Isle Of Pag"
+    },
+    "Highest Point Festival": {
+        "fest_date": "Thursday 11 - Sunday 14 May, 2023",
+        "fest_location": "Williamson Park in Lancaster"
+    },
+    "Houghton Festival": {
+        "fest_date": "Thursday 10 - Sunday 13 August, 2023",
+        "fest_location": "Houghton Hall in Norfolk "
+    },
+    "Illusive Festival": {
+        "fest_date": "Friday 8 - Sunday 10 September, 2023",
+        "fest_location": "Northamptonshire in Northamptonshire"
+    },
+    "In It Together Festival": {
+        "fest_date": "Friday 26 - Sunday 28 May, 2023",
+        "fest_location": "Old Park Farm Margam in Port Talbot"
+    },
+    "Inside Out festival": {
+        "fest_date": "Friday 9 - Saturday 10 June, 2023",
+        "fest_location": "Bute Park in Cardiff"
+    },
+    "Isle of Wight Festival": {
+        "fest_date": "Thursday 15 - Sunday 18 June, 2023",
+        "fest_location": "Seaclose Park in Newport"
+    },
+    "Junction 2 Festival": {
+        "fest_date": "Friday 21 - Saturday 22 July, 2023",
+        "fest_location": "Boston Manor Park in Brentford"
+    },
+    "Kelburn Garden Party festival": {
+        "fest_date": "Friday, 30 June - Sunday 2 July, 2023",
+        "fest_location": "Kelburn Country Centre in Largs"
+    },
+    "Kendal Calling  festival": {
+        "fest_date": "Thursday 27 - Sunday 30 July, 2023",
+        "fest_location": "Lowther Deer Park in Cumbria"
+    },
+    "KITE Music Festival": {
+        "fest_date": "Friday 9 - Sunday 11 June, 2023",
+        "fest_location": "Kirtlington Park in Kidlington"
+    },
+    "Knockengorroch Festival": {
+        "fest_date": "Thursday 25 - Sunday 28 May, 2023",
+        "fest_location": "Knockengorroch in Kirkcudbrightshire"
+    },
+    "Kubix Festival - Pop & Dance": {
+        "fest_date": "Saturday 15 July, 2023",
+        "fest_location": "Herrington Country Park in Sunderland"
+    },
+    "Kubix Festival - Rock & Indie": {
+        "fest_date": "Saturday 22 July, 2023",
+        "fest_location": "Herrington Country Park in Sunderland"
+    },
+    "Land Beyond Festival - The Lost World": {
+        "fest_date": "Friday 28 - Sunday 30 April, 2023",
+        "fest_location": "Waterhall in Brighton"
+    },
+    "Latitude Festival": {
+        "fest_date": "Thursday 20 - Sunday 23 July, 2023",
+        "fest_location": "Henham Park in Beccles"
+    },
+    "Leeds Festival": {
+        "fest_date": "Friday 25 - Sunday 27 August, 2023",
+        "fest_location": "Branham Park in Leeds"
+    },
+    "LeeStock Music Festival": {
+        "fest_date": "Saturday 27 - Sunday 28 May, 2023",
+        "fest_location": "Melford Hall in Suffolk"
+    },
+    "Lets Love Life Charity Festival": {
+        "fest_date": "Saturday 27 May, 2023",
+        "fest_location": "Rushmoor Arena in Aldershot"
+    },
+    "Lets Rock Exeter - The Retro Festival": {
+        "fest_date": "Saturday 1 July, 2023",
+        "fest_location": "Powderham Castle in Exeter"
+    },
+    "Lets Rock Leeds - The Retro Festival": {
+        "fest_date": "Saturday 17 June, 2023",
+        "fest_location": "Temple Newsam in Leeds"
+    },
+    "Lets Rock Northern Ireland - The Retro Festival": {
+        "fest_date": "Saturday 5 August, 2023",
+        "fest_location": "Ward Park in Bangor"
+    },
+    "Lets Rock Scotland - The Retro Festival": {
+        "fest_date": "Saturday 24 June, 2023",
+        "fest_location": "Dalkeith Country Park in Edinburgh"
+    },
+    "Lets Rock Shrewsbury - The Retro Festival": {
+        "fest_date": "Saturday 15 July, 2023",
+        "fest_location": "The Quarry, Shrewsbury in Shrewsbury"
+    },
+    "Lets Rock Southampton - The Retro Festival": {
+        "fest_date": "Saturday 8 July, 2023",
+        "fest_location": "The Common Southampton SO15 in Southampton"
+    },
+    "Lets Rock The Moor  festival": {
+        "fest_date": "Saturday 20 May, 2023",
+        "fest_location": "The Moor, Cookham in Maidenhead"
+    },
+    "Lets Rock The North East festival": {
+        "fest_date": "Saturday 10 June, 2023",
+        "fest_location": "Albert Park in Middlesbrough"
+    },
+    "Lets Rock Wales - The Retro Festival": {
+        "fest_date": "Saturday 27 May, 2023",
+        "fest_location": "Bute Park in Cardiff"
+    },
+    "Lindisfarne Festival ": {
+        "fest_date": "Thursday, 31 August - Sunday 3 September, 2023",
+        "fest_location": "Beal Farm  in Berwick-upon-Tweed"
+    },
+    "Live At Leeds in the Park festival": {
+        "fest_date": "Saturday 27 May, 2023",
+        "fest_location": "Temple Newsam in Leeds"
+    },
+    "Liverpool Sound City festival": {
+        "fest_date": "Saturday 29 - Sunday 30 April, 2023",
+        "fest_location": "Mountford Hall in Liverpool"
+    },
+    "Lollapalooza Chicago festival": {
+        "fest_date": "Thursday 3 - Sunday 6 August, 2023",
+        "fest_location": "Grant Park IL 60940 in Grant Park"
+    },
+    "LooseFest": {
+        "fest_date": "Saturday 5 - Sunday 6 August, 2023",
+        "fest_location": "Newcastle Town Moor in Newcastle"
+    },
+    "Lost Minds Festival ": {
+        "fest_date": "Saturday 29 April, 2023",
+        "fest_location": "Leazes Park  in Newcastle Upon Tyne"
+    },
+    "Lost Village festival": {
+        "fest_date": "Thursday 24 - Sunday 27 August, 2023",
+        "fest_location": "Lost Village in Lincoln"
+    },
+    "Love Saves The Day Festival": {
+        "fest_date": "Saturday 27 - Sunday 28 May, 2023",
+        "fest_location": "Ashton Court Estate in Bristol"
+    },
+    "Love Supreme Jazz Festival": {
+        "fest_date": "Friday, 30 June - Sunday 2 July, 2023",
+        "fest_location": "Glynde Place in Lewes"
+    },
+    "Lytham Festival": {
+        "fest_date": "Wednesday, 28 June - Sunday 2 July, 2023",
+        "fest_location": "Lytham Green in Lancashire"
+    },
+    "Mad Cool Festival": {
+        "fest_date": "Thursday 6 - Saturday 8 July, 2023",
+        "fest_location": "IFEMA in Madrid"
+    },
+    "MADE Festival": {
+        "fest_date": "Saturday 29 July, 2023",
+        "fest_location": "Venue TBA in N/A"
+    },
+    "Made in Manchester Festival": {
+        "fest_date": "Saturday, 27 May - Sunday 17 September, 2023",
+        "fest_location": "Astley Sports Village in Dukinfield"
+    },
+    "Maid of Stone Festival": {
+        "fest_date": "Saturday 22 - Sunday 23 July, 2023",
+        "fest_location": "Mote Park in Maidstone, Kent"
+    },
+    "Manchester Psych Fest": {
+        "fest_date": "Saturday 2 - Sunday 3 September, 2023",
+        "fest_location": "Various Venues Around Manchester in Manchester"
+    },
+    "Maui Waui Festival": {
+        "fest_date": "Friday 25 - Sunday 27 August, 2023",
+        "fest_location": "Hill Farm Gressenhall in Dereham"
+    },
+    "Maverick Festival": {
+        "fest_date": "Friday, 30 June - Sunday 2 July, 2023",
+        "fest_location": "Easton Farm Park in Woodbridge, Suffolk"
+    },
+    "Midnight Sun Weekender  festival": {
+        "fest_date": "Thursday 25 - Saturday 27 May, 2023",
+        "fest_location": "Lews Castle in Isle Of Lewis"
+    },
+    "Midstock Festival": {
+        "fest_date": "Friday 26 - Saturday 27 May, 2023",
+        "fest_location": "Dalkeith Country Park in Edinburgh"
+    },
+    "Mighty Hoopla Festival": {
+        "fest_date": "Saturday 3 June, 2023",
+        "fest_location": "Brockwell Park in London"
+    },
+    "Mint Festival": {
+        "fest_date": "Saturday 23 September, 2023",
+        "fest_location": "Newsam Green Farm in Leeds"
+    },
+    "Moovin Festival": {
+        "fest_date": "Friday 25 - Sunday 27 August, 2023",
+        "fest_location": "Whitebottom Farm in Stockport"
+    },
+    "NASS Festival": {
+        "fest_date": "Thursday 6 - Sunday 9 July, 2023",
+        "fest_location": "The Royal Bath and West Showground in Bath"
+    },
+    "Neighbourhood Weekender festival": {
+        "fest_date": "Saturday 27 - Sunday 28 May, 2023",
+        "fest_location": "Victoria Park in Warrington"
+    },
+    "Noisily Festival": {
+        "fest_date": "Thursday 6 - Sunday 9 July, 2023",
+        "fest_location": "Coney Woods in Noseley"
+    },
+    "NOS Primavera Sound Porto festival": {
+        "fest_date": "Wednesday 7 - Saturday 10 June, 2023",
+        "fest_location": "Parque Da Cidade Porto in Porto"
+    },
+    "Noughty 90s Festival Brighton": {
+        "fest_date": "Saturday 27 May, 2023",
+        "fest_location": "East Brighton Park in Brighton"
+    },
+    "On The Beach 2023 - Day Three with Eric Prydz festival": {
+        "fest_date": "Sunday 23 July, 2023",
+        "fest_location": "Brighton Beach in Brighton"
+    },
+    "One Out Festival": {
+        "fest_date": "Saturday 16 September, 2023",
+        "fest_location": "Apps Court Farm in Walton-on-Thames"
+    },
+    "Out East Festival": {
+        "fest_date": "Saturday 5 - Sunday 6 August, 2023",
+        "fest_location": "Dalkeith Country Park in Edinburgh"
+    },
+    "Outbreak Fest": {
+        "fest_date": "Friday 23 - Sunday 25 June, 2023",
+        "fest_location": "Depot (Mayfield) in Manchester"
+    },
+    "Parked Out festival": {
+        "fest_date": "Sunday 28 May, 2023",
+        "fest_location": "The Old Post Office in Barnsley"
+    },
+    "Parklife festival": {
+        "fest_date": "Saturday 10 - Sunday 11 June, 2023",
+        "fest_location": "Heaton Park in Manchester"
+    },
+    "Party at the Palace festival": {
+        "fest_date": "Saturday 12 - Sunday 13 August, 2023",
+        "fest_location": "Lochside Field Linlithgow in Linlithgow"
+    },
+    "Primavera Sound - Barcelona Festival": {
+        "fest_date": "Thursday 1 - Sunday 4 June, 2023",
+        "fest_location": "Parc Del Forum in Barcelona"
+    },
+    "Primavera Sound - Madrid Festival": {
+        "fest_date": "Wednesday 7 - Sunday 11 June, 2023",
+        "fest_location": "Ciudad Del Rock In Arganda Del Rey in Arganda Del Rey"
+    },
+    "Reading Festival": {
+        "fest_date": "Friday 25 - Sunday 27 August, 2023",
+        "fest_location": "Little John's Farm in Reading"
+    },
+    "Rebellion Punk Music Festival": {
+        "fest_date": "Thursday 3 - Sunday 6 August, 2023",
+        "fest_location": "Winter Gardens Blackpool in Blackpool"
+    },
+    "Reggae Land festival": {
+        "fest_date": "Saturday 5 - Sunday 6 August, 2023",
+        "fest_location": "The National Bowl in Milton Keynes"
+    },
+    "Reload Festival ": {
+        "fest_date": "Saturday 5 August, 2023",
+        "fest_location": "Thoresby Park in Nottingham"
+    },
+    "Restricted Forest Festival": {
+        "fest_date": "Saturday 24 June, 2023",
+        "fest_location": "Witton Park Blackburn in Blackburn"
+    },
+    "Restricted Rocks Festival": {
+        "fest_date": "Sunday 30 April, 2023",
+        "fest_location": "Witton Country Park in Blackburn"
+    },
+    "Retro In The Park festival": {
+        "fest_date": "Saturday 27 - Sunday 28 May, 2023",
+        "fest_location": "Towneley Park Burnley BB11 in Burnley"
+    },
+    "Revival In The Park  festival": {
+        "fest_date": "Friday 14 - Saturday 15 July, 2023",
+        "fest_location": "Mote Park in Maidstone, Kent"
+    },
+    "Rezerection festival": {
+        "fest_date": "Saturday 6 May, 2023",
+        "fest_location": "Royal Highland Centre in Edinburgh"
+    },
+    "Riverside Festival": {
+        "fest_date": "Saturday 3 - Sunday 4 June, 2023",
+        "fest_location": "Riverside Museum in Glasgow"
+    },
+    "Rock The Mote Festival": {
+        "fest_date": "Saturday 5 - Sunday 6 August, 2023",
+        "fest_location": "Mote Park in Maidstone, Kent"
+    },
+    "Save The Rave: Outdoor 90s Festival": {
+        "fest_date": "Saturday 22 July, 2023",
+        "fest_location": "Victoria Park Southport in SOUTHPORT"
+    },
+    "Shambala Festival": {
+        "fest_date": "Thursday 24 - Sunday 27 August, 2023",
+        "fest_location": "Kelmarsh Hall in Northampton"
+    },
+    "Shindig Festival": {
+        "fest_date": "Thursday 25 - Sunday 28 May, 2023",
+        "fest_location": "The Dillington Estate in Ilminster"
+    },
+    "Sick New World festival": {
+        "fest_date": "Saturday 13 May, 2023",
+        "fest_location": "Las Vegas USA in Las Vegas"
+    },
+    "Slam Dunk Festival - North": {
+        "fest_date": "Sunday 28 May, 2023",
+        "fest_location": "Temple Newsam in Leeds"
+    },
+    "Slam Dunk Festival - South": {
+        "fest_date": "Saturday 27 May, 2023",
+        "fest_location": "Hatfield Park in Hatfield"
+    },
+    "Solfest": {
+        "fest_date": "Thursday 24 - Sunday 27 August, 2023",
+        "fest_location": "North Lakes Country Park in Silloth, Cumbria"
+    },
+    "Soultasia Essex festival": {
+        "fest_date": "Saturday 10 June, 2023",
+        "fest_location": "Promenade Park in Maldon"
+    },
+    "Soultasia Kent festival": {
+        "fest_date": "Saturday 23 September, 2023",
+        "fest_location": "Mote Park in Maidstone, Kent"
+    },
+    "Soultown Festival": {
+        "fest_date": "Saturday 2 - Sunday 3 September, 2023",
+        "fest_location": "Croydon Road Recreation Ground in Beckenham"
+    },
+    "Sounds From The Other City festival": {
+        "fest_date": "Sunday 30 April, 2023",
+        "fest_location": "Chapel Street in Salford"
+    },
+    "Sounds Of The City Festival": {
+        "fest_date": "Wednesday, 28 June - Saturday 8 July, 2023",
+        "fest_location": "Castlefield Bowl in Manchester"
+    },
+    "South East Dance Festival": {
+        "fest_date": "Saturday 26 August, 2023",
+        "fest_location": "Garon Park in Southend-On-Sea"
+    },
+    "Southern Sunset Festival": {
+        "fest_date": "Sunday 30 July, 2023",
+        "fest_location": "The Oval in Hastings"
+    },
+    "Steelhouse Festival": {
+        "fest_date": "Friday 28 - Sunday 30 July, 2023",
+        "fest_location": "Steelhouse Festival in Ebbw Vale"
+    },
+    "STREETrave Festival on Ayr Beach": {
+        "fest_date": "Sunday 30 April, 2023",
+        "fest_location": "Low Green in Ayr"
+    },
+    "Summer Love Festival": {
+        "fest_date": "Saturday 27 May, 2023",
+        "fest_location": "Mote Park in Maidstone, Kent"
+    },
+    "Summer Sound Music Festival": {
+        "fest_date": "Friday 28 - Sunday 30 July, 2023",
+        "fest_location": "Guisborough Rugby Club in Guisborough"
+    },
+    "SuncéBeat Festival": {
+        "fest_date": "Thursday 20 - Thursday 27 July, 2023",
+        "fest_location": "The Garden in Tisno"
+    },
+    "Teddy Rocks Festival": {
+        "fest_date": "Friday 28 - Sunday 30 April, 2023",
+        "fest_location": "Charisworth Farm Cottage in Blandford Forum"
+    },
+    "Terminal V Festival": {
+        "fest_date": "Saturday 8 - Sunday 9 April, 2023",
+        "fest_location": "Royal Highland Centre in Edinburgh"
+    },
+    "The Big Family Day Out Festival": {
+        "fest_date": "Sunday 14 May, 2023",
+        "fest_location": "Williamson Park in Lancaster"
+    },
+    "The Gathering festival": {
+        "fest_date": "Saturday 27 May, 2023",
+        "fest_location": "Inverness Northern Meeting Park in Inverness"
+    },
+    "The Gathering Fest": {
+        "fest_date": "Saturday 10 June, 2023",
+        "fest_location": "Meridian Showground in North East Lincolnsh"
+    },
+    "The Great Escape Festival": {
+        "fest_date": "Wednesday 10 - Saturday 13 May, 2023",
+        "fest_location": "Brighton Dome And Various Venues in Brighton"
+    },
+    "The Jungle Weekender - Amsterdam festival": {
+        "fest_date": "Friday 10 - Sunday 12 March, 2023",
+        "fest_location": "Club Panama in Amsterdam"
+    },
+    "The Modcast - Mallorca festival": {
+        "fest_date": "Friday, 30 June - Thursday 6 July, 2023",
+        "fest_location": "Paguera, Majorca, Spain in Calvià"
+    },
+    "The Soundcrash Funk & Soul Weekender festival": {
+        "fest_date": "Friday 2 - Sunday 4 June, 2023",
+        "fest_location": "Dreamland in Margate, Kent"
+    },
+    "The Tidyland Weekender Festival": {
+        "fest_date": "Friday 7 - Monday 10 July, 2023",
+        "fest_location": "Pontins Southport Holiday Park in Southport"
+    },
+    "This Is Tomorrow Festival": {
+        "fest_date": "Friday 26 - Sunday 28 May, 2023",
+        "fest_location": "Exhibition Park in Newcastle Upon Tyne "
+    },
+    "Towneley Park Tribute Festival": {
+        "fest_date": "Sunday 20 August, 2023",
+        "fest_location": "Towneley Park Burnley BB11 in Burnley"
+    },
+    "TRNSMT Festival": {
+        "fest_date": "Friday 7 - Sunday 9 July, 2023",
+        "fest_location": "Glasgow Green in Glasgow"
+    },
+    "Truck Festival": {
+        "fest_date": "Friday 21 - Sunday 23 July, 2023",
+        "fest_location": "Hill Farm  in Steventon Oxfordshir"
+    },
+    "Victorious Festival": {
+        "fest_date": "Friday 25 - Sunday 27 August, 2023",
+        "fest_location": "Southsea Common in Portsmouth"
+    },
+    "WAH Open Air DnB All Dayer festival": {
+        "fest_date": "Saturday 24 June, 2023",
+        "fest_location": "Dreamland in Margate, Kent"
+    },
+    "We Out Here Festival": {
+        "fest_date": "Thursday 10 - Monday 14 August, 2023",
+        "fest_location": "Wimborne St Giles in Wimborne"
+    },
+    "Weyfest ": {
+        "fest_date": "Friday 18 - Sunday 20 August, 2023",
+        "fest_location": "Rural Life Centre Tilford Surrey in Farnham"
+    },
+    "Wick Street Festival": {
+        "fest_date": "Thursday, 31 August - Sunday 3 September, 2023",
+        "fest_location": "Wick St Paddocks, Wick St, Berwick, E Sussex BN26 6TR in Polegate"
+    },
+    "Wide Awake Festival": {
+        "fest_date": "Saturday 27 May, 2023",
+        "fest_location": "Brockwell Park in London"
+    },
+    "Wile Out Festival ": {
+        "fest_date": "Saturday 19 August, 2023",
+        "fest_location": "Towneley Park Burnley BB11 in Burnley"
+    },
+    "Woodland Dance Project - Spring festival": {
+        "fest_date": "Saturday 13 May, 2023",
+        "fest_location": "Vogrie Country Park in Gorebridge"
+    },
+    "Woodland Disco Festival": {
+        "fest_date": "July 2023, TBC",
+        "fest_location": "Newstead Abbey  in Nottingham"
+    },
+    "Wychwood Festival": {
+        "fest_date": "Friday 2 - Sunday 4 June, 2023",
+        "fest_location": "Cheltenham Racecourse in Cheltenham"
+    },
+    "Y Not Festival": {
+        "fest_date": "Friday 28 - Sunday 30 July, 2023",
+        "fest_location": "Pikehall in Matlock"
+    }
+}
